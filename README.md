@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicolas
+- 👋 Hi, I’m Nicolas, I'm a Web Developer.
 - 👀 I’m interested in developing apps. I like both the front and back end of the web.
 - 🌱 I’m currently learning Node, React, and Database design.
 
